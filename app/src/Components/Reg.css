@@ -1,0 +1,14 @@
+input{
+    width: 300px;
+    height: 35px;
+}
+
+.UnderDiv>div{
+    line-height:60px;
+}
+.MainContainer{
+    border: 1px solid brown;
+    width: 400px;
+    margin: 100px 400px;
+    padding: 20px;
+}

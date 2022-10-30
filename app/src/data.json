@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "user": "hsdkjashd",
+      "email": "kksdhakjhd@gamil.com",
+      "number": "46465",
+      "date": "2022-09-28",
+      "pass": "sjdbjakbd",
+      "coonfPass": "skagdkab",
+      "id": 1
+    },
+    {
+      "user": "vaibhav",
+      "email": "vaibhav@gmail.com",
+      "number": "44564564",
+      "date": "2022-10-13",
+      "pass": "vaibhav",
+      "coonfPass": "vaibhav",
+      "id": 2
+    },
+    {
+      "user": "vaibhav",
+      "email": "vaibhav@gmail.com",
+      "number": "44564564",
+      "date": "2022-10-13",
+      "pass": "vaibhav",
+      "coonfPass": "vaibhav",
+      "id": 3
+    }
+  ]
+}
